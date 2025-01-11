@@ -124,7 +124,7 @@ main {
 }
 .future-content2:hover {
   background-color: chartreuse;
-  transform: rotate(40deg);
+  transform: rotate(20deg);
 }
 .future-content3 {
   background-color: #f7ebcf;
@@ -196,7 +196,7 @@ main {
 }
 .img-news2 {
   float: right;
-  display: block;
+  display: block; 
   padding: 30px;
   border-radius: 40px;
 }
@@ -232,7 +232,7 @@ main {
     rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .card-content2 {
-  background-color: #c6e4d6;
+  background-color: #2aa2e7;
   border-radius: 16px;
   padding: 20px 40px;
   margin: 32px auto;
