@@ -251,3 +251,42 @@ main {
     border: none;
     color: white;
   }
+
+  /* challenge section */
+  .challenge{
+    width: 1280px;
+    background-color: #C6E4D6;
+    text-align: center;
+    margin: auto;
+    padding: 80px;
+    border-radius: 24px;
+    margin-bottom: 80px;
+
+  }
+.cht-title{
+  font-size: 40px;
+  font-weight: bold;
+}
+.chl-text{
+  padding: 21px ;
+  width: 50%;
+  border-radius: 8px 0 0 8px;
+  border: none;
+
+}
+.chl-btn{
+  padding: 17px 34px;
+  background-color: #006a50;
+  color:#fff;
+  border: none;
+  border-radius: 0 8px 8px 0;
+  font-size: 18px;
+  font-weight: 300;
+  margin: auto;
+}
+.chl-done{
+  margin-top: 24px;
+}
+.chl-btn:hover{
+  background-color: crimson;
+}
