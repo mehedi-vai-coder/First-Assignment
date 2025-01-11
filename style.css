@@ -77,6 +77,9 @@ main {
   border-radius: 16px;
   padding: 24px;
 }
+.bonus-content:hover{
+ background-color: aqua;
+}
 .bonus-container {
   display: flex;
   gap: 24px;
@@ -94,6 +97,9 @@ main {
   display: flex;
   gap: 20px;
   margin-bottom: 32px;
+}
+.future-content1:hover{
+  background-color: darkcyan;
 }
 .future-content1 {
   background-color: #81b4fc;
@@ -114,10 +120,16 @@ main {
   border-radius: 16px;
   padding: 30px;
 }
+.future-content2:hover{
+  background-color: chartreuse;
+}
 .future-content3 {
   background-color: #f7ebcf;
   border-radius: 16px;
   padding: 30px;
+}
+.future-content3:hover{
+  background-color: cornsilk;
 }
 .card-btn2 {
   padding: 11px 20px;
