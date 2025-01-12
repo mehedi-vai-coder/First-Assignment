@@ -154,7 +154,7 @@ main {
   margin-bottom: 80px;
 }
 .future-content {
-  background-image: url(/assets/quote-bg.png);
+  background-image: url(assets/quote-bg.png);
   background-repeat: no-repeat;
   background-position: 30px 25px;
   background-color: white;
